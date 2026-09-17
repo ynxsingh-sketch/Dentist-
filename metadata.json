@@ -1,0 +1,7 @@
+{
+  "name": "Raza Multispeciality Dental Clinic",
+  "description": "Raza Multispeciality Dental Clinic in Chaman Sarai, Sambhal. Advanced dental care, implants, root canal treatment, CBCT/OPG imaging, and precision laser dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
